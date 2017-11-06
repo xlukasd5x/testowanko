@@ -17,6 +17,7 @@ public class Tescik {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Help!!!!!");
+        System.out.print("Help???!!!!!");
     }
     
 }
