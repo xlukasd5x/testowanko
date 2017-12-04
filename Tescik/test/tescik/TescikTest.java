@@ -46,7 +46,7 @@ public class TescikTest {
         String[] args = null;
       //  Tescik.main(args);
         // TODO review the generated test code and remove the default call to fail.
-     //   fail("The test case is a prototype.");
+        fail("Wygenerowano perfidny błąd!");
     }
     
 }
