@@ -37,6 +37,12 @@ public class TescikTest {
     public void tearDown() {
     }
 
+    @Test
+    public void testVersion() {
+	final boolean JAVA_7_OR_EARLIER = System.getProperty("java.specification.version").compareTo("1.8") < 0;
+	assertTrue(JAVA_7_OR_EARLIER);
+    }
+
     /**
      * Test of main method, of class Tescik.
      */
