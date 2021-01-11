@@ -51,9 +51,9 @@ public class TescikTest {
     public void testMain() {
         System.out.println("main");
         String[] args = null;
-      //  Tescik.main(args);
+        Tescik.main(args);
         // TODO review the generated test code and remove the default call to fail.
-        fail("Wygenerowano perfidny błąd!");
+     //   fail("Wygenerowano perfidny błąd!");
     }
     
 }
