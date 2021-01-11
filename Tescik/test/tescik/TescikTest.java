@@ -53,7 +53,7 @@ public class TescikTest {
         String[] args = null;
       //  Tescik.main(args);
         // TODO review the generated test code and remove the default call to fail.
-        //fail("Wygenerowano perfidny błąd!");
+        fail("Wygenerowano perfidny błąd!");
     }
     
 }
